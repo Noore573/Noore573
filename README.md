@@ -13,7 +13,8 @@ I'm a **Software Engineer** from Basra, Iraq. I specialize in **Frontend Develop
 
 - **Frontend Development**: React, Flutter
 - **Backend Development**: Python, Java
-- **Mobile Development**: Flutter 
+- **Mobile Development**: Flutter
+- ![Flutter Icon](https://github.com/flutter/website/blob/main/src/_assets/image/flutter-icon.png?raw=true)  
 - **AI & Machine Learning**: NLP, Computer Vision
 - **Web Technologies**: HTML, CSS, JavaScript
 - **UI/UX Design**: Figma
