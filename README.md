@@ -23,7 +23,7 @@ I'm a **Software Engineer** Born Basra, Iraq. I specialize in **Frontend Develop
 - 📫 **Email**: nooresabah10@gmail.com
 - 🎨 **Figma**: https://www.figma.com/@NooreSabah
 - 🔭 I’m currently working on [Interactive surface (graduation project)](https://codeberg.org/noore573/CameraCalibration.git) ,
-  it's mt graduation project and the second major ai project for me 
+  it's my graduation project for uni and the second major ai project for me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
