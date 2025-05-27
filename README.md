@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Software Engineer** Born Basra, Iraq. I specialize in **Frontend Development** and **Artificial Intelligence**.
+I'm a **Software Engineer** Born in Basra, Iraq. I specialize in **Frontend Development** and **Artificial Intelligence**.
 
 ## About Me
 
