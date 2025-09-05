@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! 👋
 
 I'm a **Software Engineer** Born in Basra, Iraq. I specialize in **Frontend Development** and **Artificial Intelligence**.
 
