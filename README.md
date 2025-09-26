@@ -2,6 +2,8 @@
 
 I'm a **Software Engineer** Born in Basra, Iraq. I specialize in **Frontend Development** and **Artificial Intelligence**.
 
+Welcome! Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-Noore's_portfolio-blue.svg?style=flat-square)](https://noore573.github.io/Noore-s_portfolio/)
+
 ## About Me
 
 - 🌐 **Frontend Developer**: Proficient in **React** and **Flutter**.
