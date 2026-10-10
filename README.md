@@ -1,41 +1,97 @@
-# Hello there! 👋
+<div align="center">
 
-I'm a **Software Engineer** Born in Basra, Iraq. I specialize in **Frontend Development** and **Artificial Intelligence**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=210&section=header&text=Noore%20Sabah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=17" width="100%" alt="Noore Sabah header" />
 
-Welcome! Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-Noore's_portfolio-blue.svg?style=flat-square)](https://noore573.github.io/Noore-s_portfolio/)
+**Building intelligent systems at the intersection of AI, software engineering, and data.**
 
-## About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noore573.github.io/Noore-s_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noore-sabah-7a6292279/)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nooresabah10@gmail.com)
 
-- 🌐 **Frontend Developer**: Proficient in **React** and **Flutter**.
-- 🤖 **AI Specialist**: I love everything about AI, NLP, and computer vision and ready to learn new concepts.
-- 🎨 **UI/UX Designer**: Skilled in designing UI/UX using **Figma**.
-- 💻 **Programming Languages**: Python, JavaScript, Java, Dart, C#.
+</div>
 
-## Skills
+## 👋 About Me
 
-- **Frontend Development**: React, Flutter
-- **Backend Development**: Python, Java
-- **Mobile Development**: Flutter
-- **AI & Machine Learning**: NLP, Computer Vision
-- **Web Technologies**: HTML, CSS, JavaScript
-- **UI/UX Design**: Figma
+I'm an **AI Engineer, Full-Stack Developer, and Data Analyst** with **2.5+ years of hands-on experience** across AI-powered applications, data-driven systems, and cloud-based solutions.
 
-## Contacts
+I work on **agentic AI, LLM-powered workflows, RAG systems, cloud financial analytics, and interactive applications**. My approach combines practical engineering with data analysis: understanding the problem, building the system, and making its outputs useful and explainable.
 
-- 📫 **Email**: nooresabah10@gmail.com
-- 🎨 **Figma**: https://www.figma.com/@NooreSabah
-- 🦾 **LinkedIn**: www.linkedin.com/in/noore-sabah-7a6292279
-- 🔭 I’m currently working on [Interactive surface (graduation project)](https://codeberg.org/noore573/CameraCalibration.git) ,
-  it's my graduation project for uni and the second major ai project for me 
+- 🤖 **AI engineering:** Gemini, LangGraph, agentic workflows, tool orchestration, RAG, and AI-assisted automation.
+- 📊 **Data and analytics:** Python, Pandas, SQL, BigQuery, machine learning, forecasting, and visualization.
+- 💻 **Full-stack development:** React, TypeScript, Node.js, APIs, and cloud-backed applications.
+- ☁️ **Cloud and deployment:** Google Cloud Platform, Cloud Run, Cloud SQL, and Vertex AI.
+- 🔬 **Other interests:** Computer vision, human-computer interaction, and applied research.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/noore al sadon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noore al sadon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/noore sabah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noore sabah" height="30" width="40" /></a>
-</p>
+## 🧰 Technical Toolbox
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**AI & Machine Learning**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noore573&show_icons=true&locale=en&layout=compact" alt="noore573" /></p>
-Feel free to reach out if you want to collaborate on exciting projects 
+![Gemini](https://img.shields.io/badge/Google_Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-20232A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-4338CA?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Data & Analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Full-Stack & Cloud**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+## 🚀 Featured Engineering Projects
+
+> **Note:** Some professional projects are private or client-facing. Descriptions below summarize my technical contributions; repository links are included only where available.
+
+### 🤖 FinOps Agent — Agentic AI & Cloud Financial Intelligence
+Built an agentic AI system with **Google Gemini and LangGraph**, using stateful workflows, tool orchestration, and financial analytics integrations. Connected **BigQuery and SQL** to cloud cost investigation workflows, with **RAG** for grounded responses and **Generative UI** for interactive analytical experiences.
+
+`Gemini` · `LangGraph` · `RAG` · `BigQuery` · `TypeScript` · `React` · `Node.js`
+
+### ☁️ FinOps Cloud Cost Management Platform
+Developed a multi-cloud financial operations platform for analyzing **GCP and Azure** infrastructure spending. Worked with cloud billing exports, SQL-based processing, dashboards, and backend reporting to make spending and usage patterns easier to investigate.
+
+`React` · `Node.js` · `SQL` · `BigQuery` · `Cloud SQL` · `GCP` · `Azure`
+
+### 📄 AI-Powered Document Generation System
+Developed an AI-assisted document generation pipeline for engineering documents including **SRS, technical proposals, HLD, and LLD**. Combined **RAG, n8n orchestration, Gemini/Vertex AI, structured outputs, and document rendering** in a cloud-based application.
+
+`Gemini` · `Vertex AI` · `RAG` · `n8n` · `React` · `Node.js` · `Cloud Run`
+
+### 🖐️ AI-Powered Interactive Surface
+Created a computer-vision-powered interactive surface combining **gesture detection, real-time interaction processing, and hardware/software integration**. Built components with **C#/.NET and Python**, using computer vision and AI tools. The project has been described as being in the patent process.
+
+`Python` · `OpenCV` · `C#` · `.NET` · `YOLO` · `PyTorch`
+
+## 📈 Data Science Projects
+
+| Project | What I explored | Methods |
+|:--|:--|:--|
+| **Washington DC Bike Sharing** | Demand patterns across trips, weather, stations, and location data | EDA, geospatial analysis, clustering, forecasting |
+| **Movie Revenue Prediction** | Predicting box-office revenue and classifying profitability | Feature engineering, machine learning, predictive analytics |
+| **Syrian Conflict Data Analysis** | Temporal and spatial patterns in ACLED conflict data | Data cleaning, trend analysis, visualization |
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=noore573&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noore573&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages in public repositories" />
+
+<img src="https://streak-stats.demolab.com?user=noore573&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+> GitHub statistics reflect public GitHub activity, not the full scope of private or client work.
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on **agentic AI, applied machine learning, data analytics, and full-stack AI products**.
+
+- 🌐 **Portfolio:** [noore573.github.io/Noore-s_portfolio](https://noore573.github.io/Noore-s_portfolio/)
+- 💼 **LinkedIn:** [Noore Sabah](https://www.linkedin.com/in/noore-sabah-7a6292279/)
+- 📫 **Email:** [nooresabah10@gmail.com](mailto:nooresabah10@gmail.com)
+- 🎨 **Figma:** [@NooreSabah](https://www.figma.com/@NooreSabah)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4338ca,100:0f172a&height=110&section=footer" width="100%" alt="Footer" />
+
+</div>
